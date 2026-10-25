@@ -18,6 +18,11 @@ Recommendation: Compare the number of transactions, average order value, transac
 •	Payment Strategy: Evaluate both transaction volume and revenue by payment method before prioritizing payment options.
 •	Performance Monitoring: Track sales, order volume, average order value, and discount rates regularly to identify changes in business performance.
 Project Conclusion
+## DASHBOARD Preview
+
+![Sales Analysis Dashboard]
+(DASHBOARD.png)
+
 This Power BI project demonstrates how sales data can be transformed into interactive visualizations and actionable business insights. The dashboard helps identify leading regions, top-performing product categories, and the payment methods associated with the highest sales revenue.
 Tools Used: Microsoft Excel, Power Query, Power BI, and DAX.
 Dataset: Synthetic sales data created for educational and portfolio purposes.
