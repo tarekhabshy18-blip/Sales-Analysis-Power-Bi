@@ -1,6 +1,6 @@
 # Sales-Analysis-Power-Bi
  Sales Analysis Dashboard Using Power Bi
-## Dashboard Preview
+## DASHBOARD Preview
 
 ![Sales Analysis Dashboard]
-(Dashboard.png)
+(DASHBOARD.png)
