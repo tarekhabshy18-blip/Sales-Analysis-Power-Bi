@@ -20,5 +20,4 @@ Recommendation: Compare the number of transactions, average order value, transac
 Project Conclusion
 ## DASHBOARD Preview
 
-![Sales Analysis Dashboard]
-(DASHBOARD.png)
+![Sales Analysis Dashboard](DASHBOARD.png)
