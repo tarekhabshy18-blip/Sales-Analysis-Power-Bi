@@ -22,7 +22,3 @@ Project Conclusion
 
 ![Sales Analysis Dashboard]
 (DASHBOARD.png)
-
-This Power BI project demonstrates how sales data can be transformed into interactive visualizations and actionable business insights. The dashboard helps identify leading regions, top-performing product categories, and the payment methods associated with the highest sales revenue.
-Tools Used: Microsoft Excel, Power Query, Power BI, and DAX.
-Dataset: Synthetic sales data created for educational and portfolio purposes.
